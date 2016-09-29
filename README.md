@@ -1,7 +1,6 @@
 # lein-step-parent
 
-#### NOTE: If you are using Cursive, you need at least version 1.4.0-eap2-15 in order
-for this plugin to work!
+#### NOTE: If you are using Cursive, you need at least version 1.4.0-eap2-15 in order for this plugin to work!
 
 ## What is this?
 
