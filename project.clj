@@ -1,4 +1,4 @@
-(defproject lein-step-parent "0.1.0-SNAPSHOT"
+(defproject lein-step-parent "0.1.0"
   :description "Lein plugin to workaround Cursive issues with lein-parent"
   :url "https://github.com/puppetlabs/lein-step-parent"
   :license {:name "Apache License, Version 2.0"
