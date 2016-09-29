@@ -1,5 +1,8 @@
 # lein-step-parent
 
+#### NOTE: If you are using Cursive, you need at least version 1.4.0-eap2-15 in order
+for this plugin to work!
+
 ## What is this?
 
 It's a leiningen plugin.  It's a hacky knock-off of
@@ -31,6 +34,9 @@ parent project (fancy macros, lein profiles, etc.), it may just not work at
 all.  So don't do anything fancy for now.
 
 ## Blergh.  OK, how do I use it?
+
+#### NOTE: If you are using Cursive, you need at least version 1.4.0-eap2-15 in order
+for this plugin to work!
 
 Specify your parent project configuration just like you would for
 `lein-parent`:
