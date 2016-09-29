@@ -3,4 +3,10 @@
   :url "https://github.com/puppetlabs/lein-step-parent"
   :license {:name "Apache License, Version 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
-  :eval-in-leiningen true)
+  :eval-in-leiningen true
+
+  :deploy-repositories [["releases" {:url "https://clojars.org/repo"
+                                     :username :env/clojars_jenkins_username
+                                     :password :env/clojars_jenkins_password
+                                     :sign-releases false}]]
+)
